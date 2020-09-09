@@ -1,0 +1,3 @@
+{
+    "conn_string": "mongodb+srv://iotuser:khangchibinh@cluster0.fniwu.gcp.mongodb.net/IOTCam?retryWrites=true&w=majority"
+}
